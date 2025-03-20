@@ -1,5 +1,6 @@
 <footer class="site-footer">
       <div class="container">
+      <p class="copyright">© Кекс, 2019</p> 
         <ul class="navigation-list">
           <li><a href="catalog.php">Каталог</a></li>
           <li><a href="delivery.html">Доставка</a></li>
